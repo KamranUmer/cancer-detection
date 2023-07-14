@@ -27,11 +27,6 @@ After training, we evaluated the performance of the trained model on the validat
 # Contact
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out to us at kamranumer@gmail.com . We appreciate your feedback and contributions to cancer detection research!
 
-# image 
-![Screenshot (111)](https://github.com/KamranUmer/cancer-detection/assets/86089489/faf0d385-09c9-438a-868d-688be597b101)
-
-
-
 
 # Full page:
 
